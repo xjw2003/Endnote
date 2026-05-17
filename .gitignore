@@ -1,5 +1,6 @@
 *
 !/.gitignore
+!/.gitattributes
 !/我的EndNote库.enl
 !/我的EndNote库.Data/
 !/我的EndNote库.Data/**

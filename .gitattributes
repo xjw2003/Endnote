@@ -1,0 +1,4 @@
+*.enl -text
+*.Data/** -text
+.gitattributes text eol=lf
+.gitignore text eol=lf
